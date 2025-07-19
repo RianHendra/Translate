@@ -28,11 +28,24 @@
     "Advertise with our partners",
     "via ViaAds running ads",
     "View advertising offers"
-    /*=================Transaction | Selesai ====================*/
+    /*=================Transaction | Process ====================*/
+    "Transaction",
     "Process",
     "Transaction ID",
     "July 2, 2025",
     "Paid",
     "Unpaid",
     "Pending",
+    /*=================Transaction | Finished ====================*/
+    "Finished",
+    "No transactions"
+     /*=================Transaction | Cancelled ====================*/
+     "Cancelled",
+     /*=================Transaction | Profile ====================*/
+     "Customer-User",
+     "VivaPoints",
+     "City",
+     "Unknown City",
+     "Setting Akun",
+     ""
 }
